@@ -39,7 +39,7 @@ The novel references and Book 4 discussion are the primary sources of setting ca
 ### Character Designations and Species Detail
 The novels establish full designations and model information not in the Morgan Jasper baseline:
 - **Lev**: Ixion Eleven Chrysotile. Leslie Model 11 Mech. Cyan-tinted metal carapace. Manufactured at Ceres, trained on Mars. Former Jovian Diplomatic Guard medic.
-- **Verge**: 17 Actinium Converges. Hama Model 17 Ionian. Chrome egg-shaped body. The "Hama" designation is novel-specific — the Morgan Jasper baseline uses "Ionian" generically.
+- **Verge**: 17 Actinium Converges. Hama Model 17 Mech. Chrome egg-shaped body..
 - **Mai Greenhill**: Canine (Spearhound from South Asgard Preserve, Callisto). Grey/tan coat, pointed ears. Exceptional hearing. Master of manipulator field technology.
 - **Yarrow**: Ionian. Golden skin, white-gold crest, sky-blue eyes. Jasper's sibling (confirmed connective tissue between novels and Jasper stories, consistent with baseline).
 - **Kestrel** (ship AI): Described as "Rayleigh Shipping's oldest working vessel." Mature, polite, extremely competent personality.
@@ -110,7 +110,7 @@ The Book 4 notes describe the Praxis as "ancient machine religion/ethical system
 ## Remaining Discrepancies
 
 ### Mech Model Designations
-The novels give specific model lineages: "Leslie Model 11" (Lev), "Hama Model 17" (Verge as Ionian). The Morgan Jasper baseline discusses model lineages generally ("function somewhat like ethnicity") but doesn't use these specific names. No conflict — the novel designations add specificity.
+The novels give specific model lineages: "Leslie Model 11" (Lev), "Hama Model 17" (Verge as Mech). The Morgan Jasper baseline discusses model lineages generally ("function somewhat like ethnicity") but doesn't use these specific names. No conflict — the novel designations add specificity.
 
 ### Church of the Makers — Novel vs. Baseline
 The novels and Book 4 notes give the Church more operational presence than the baseline: Church offices aboard Defense Consortium dreadnoughts, the Sacred Host operating as military police, chaplains holding secular positions (Gebre Isaac as customs chief). The baseline provides the theological and historical framework. No conflict — complementary.
@@ -125,7 +125,7 @@ Book 2 establishes generation ships as launched "4,000+ years ago during post-wa
 ### Setting Elements to Add
 - Diplomatic Guard as a branch of the JDC (now resolved — not a separate institution but part of the Consortium's executive function)
 - Generation ship history (Angel of Cygnus as concrete example, other Abjurer "arks" implied)
-- Hama and Leslie as specific Mech/Ionian model lineage names
+- Hama and Leslie as specific Mech model lineage names
 - Spearhound as a Canine sub-type; South Asgard Preserve on Callisto as a Canine homeland
 - Second Imperium as fallen political entity (timeline pending decision)
 - Dreadnought specifics: Solomon at 10 km diameter with internal cities, transit systems, artificial day/night
