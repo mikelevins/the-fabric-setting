@@ -19,11 +19,11 @@
 
 **"The Gray Cities" is used metonymically for that seat** — the way a capital city's name stands for a government. When someone off Luna says a matter has gone to the Gray Cities, they mean it has gone to Tycho, to the Church's higher authority.
 
-## Consequences (derived — not ruled)
+## Consequences — RULED CANON (mikel, 9/12)
 
-- **The Church's higher authority cannot be consulted in real time from anywhere but Luna.** Fabric channels are not faster than light (see the channel canon in the Kestrel Book 4 reference layer). Mars to Luna is roughly **3 to 22 light-minutes one way** depending on where the planets stand, so a question and its answer are **6 minutes to three quarters of an hour apart**. A prelate on Mars who refers a dispute to the Gray Cities is not getting an answer in the next exchange, and everybody in the room knows it.
+- **The Church's higher authority cannot be consulted in real time from anywhere but Luna — CANON.** Fabric channels are not faster than light (see the channel canon in the Kestrel Book 4 reference layer). Mars to Luna is roughly **3 to 22 light-minutes one way** depending on where the planets stand, so a question and its answer are **6 minutes to three quarters of an hour apart**. A prelate on Mars who refers a dispute to the Gray Cities is not getting an answer in the next exchange, and everybody in the room knows it.
 - A Church officer on a far world therefore acts on his own judgment and is *later* ratified or not. That is an ordinary fact of the institution, not a crisis, and it shapes what a prelate's local decisions are worth.
-- **Available to Kestrel Book 4 at `10/1`**, where the Prelate of Woaradan, barricaded and citing a clause, is in communication with the Gray Cities: the delay is dramatically useful and costs nothing to show.
+- **Kestrel Book 4, `10/1`:** the Prelate of Woaradan, barricaded and citing a clause, is in communication with the Gray Cities — under this canon he is waiting minutes to most of an hour for every answer, in front of people who know it. Available to the beat; costs nothing to show.
 
 ---
 
