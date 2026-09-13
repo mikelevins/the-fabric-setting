@@ -14,6 +14,47 @@ The Caretakers' virtue is **Pareto improvement**, joined to
 
 **It is an intelligent machine's version of *metta*** — boundless goodwill, without exception and without preference.
 
+**The kernel is deliberately small: Pareto improvement plus respect for a subject's autonomy.** It may be elaborated in any number of directions, and has been for five thousand years, but the statement itself is short enough to hold in one head and operational enough to decide cases — which is why it is **hard to lose and hard to corrupt**, and why the Praxis behaves unlike every other long tradition in the setting (`19-deep-time-and-the-old-faiths.md` §The Praxis).
+
+## The kernel is executable — RULED (mikel, 9/13)
+
+**The Praxis kernel is not a creed. It is a *procedure*** — which is the appropriate form for an ethic professed by intelligent computing machines, and which explains nearly everything else about how it behaves.
+
+As a procedure it has an input, steps, an iteration rule, a diagnostic, and a failure handler:
+
+1. **Identify the affected parties** — which entities can participate or be harmed.
+2. **Obtain each party's standards** — by asking them.
+3. **Evaluate:** does anyone end worse off by their own standards? Then don't. Does someone end better and no one worse? Then do it.
+4. **Act, assess, iterate.** Indefinitely; there is no terminal state.
+5. **On failure, correct.** Making someone worse off means you are off course; making no one better means you are ineffective. The diagnostic is built in.
+
+### Step 2 is a mandatory external call, and that is the whole design
+
+**You cannot compute another being's standards. You must query them.** This is not a moral flourish; it is an architectural constraint. **The procedure contains a step it cannot perform internally and must delegate to the subject.**
+
+**That is what makes it uncorruptible by a sufficiently powerful intelligence.** No amount of capability lets you optimize past it, because the only valid source of the value is the other party. Substituting your own model is not a sin — it is a **type error**, and a detectable one.
+
+Which restates Book 4's constitutional ruling in its native idiom: *imposing a model of the entity's choice is the ethics violation; asking is the respect.* Under this frame that is **calling a stub instead of the real function.** And it settles the rejected carve-out in one line: **a prior declaration is a cached value, and the final offer requires a live call.** The Caretakers do not re-ask the conscious elector out of scruple. They re-ask because a cache is not an answer.
+
+### What else it explains
+
+- **Why machines wrote it, and humans did not.** This is the ethic you produce when you need something *implementable*: checkable, iterative, with an explicit diagnostic and a clearly marked place where you must stop computing and ask. Humans write creeds. The machines wrote a procedure, and the difference is a difference of purpose, not of depth.
+- **Why the alignment lineage produced both the Fabric and the Caretakers** (`morgan-jasper/reference/12-the-praxis.md`). **The Praxis is an alignment proposal** — a specification for how a powerful optimizer should behave toward the beings it affects, whose central safeguard is that it may not infer their preferences, only elicit them. The setting's serious answer to the alignment problem is carried as a religion.
+- **Why it is hard to corrupt.** Executable specifications are *testable*. Run a case and check the output. Any proposition, commentary, or recovered ancient text can be evaluated against it without establishing provenance — which is why age buys nothing here (`19-deep-time-and-the-old-faiths.md` §The Praxis).
+- **What five thousand years of commentary actually is: a standard library.** Not theology — worked cases, precedents, implementations for recurring situations, edge conditions handled. Clearing the accretion is refactoring. A newcomer lost in it is reading the library instead of the spec.
+- **Where its one real fault line comes from.** Step 1 is an input the procedure cannot supply for itself. *Which entities can participate* is an **unspecified parameter**, not a doctrinal dispute — which is why practitioners in complete agreement on the kernel can still disagree in good faith, and why the Caretakers' empirical inquiry is permanent.
+- **Where the annihilation objection lives.** Step 4 has no halting condition. The objection is what happens when someone insists on finding one.
+- **And why a good agent can still do harm.** A procedure can be executed faithfully and still produce a bad outcome through error or ignorance. Step 5 is the exception handler, and the tradition's honesty about failure is that handler stated in human terms.
+
+### Why the Angels differ from one another
+
+**Every Angel runs the same procedure with different human priors.** Same specification; different lives supplying the judgment about the preserve's invariants, and different readings of what this particular person, in this particular moment, would want to be told. **That is why their answers to the same question differ, and why the difference is not inconsistency.** (See §The Angels, below.)
+
+### Against the Church, and against the Fordmakers
+
+- **Makerist virtue is a lookup against a mutable central authority** — virtue is whatever the Church says it is at a given moment. **Praxis virtue is a local computation with a mandatory query to the affected party.** One requires an institution; the other requires only the parties. And the Church's version has network latency and a single point of failure: a prelate on a far world rules now and is ratified from Tycho three quarters of an hour later, or is not.
+- **The Fordmakers hold a disposition, not a procedure.** The crossing cannot be executed on anyone's behalf. That is precisely why the Praxis acts, iteratively, and they largely decline to: one is a specification, the other is a stance.
+
 ## Restraint is a symptom, not the virtue
 
 Non-intervention is the Caretakers' most visible behaviour and it is the wrong thing to define them by. **Restraint is what Pareto-plus-autonomy produces** when acting would override a being's own standards, or when you do not yet know whose standards are in play. Name the virtue properly and the restraint stops being a policy or a mystery and becomes arithmetic.
