@@ -7,7 +7,15 @@
 
 ## The rule
 
-**A revived person is a copy. The original subjectivity is permanently lost. This is generally known and generally accepted.** There is no mystery about it, no live philosophical dispute at street level, and no comfortable ambiguity. The copy remembers being the original, is continuous from the inside, and is nonetheless not that person.
+**A revived person is a copy. The original subjectivity is permanently lost.** The copy remembers being the original, is continuous from the inside, and is nonetheless not that person.
+
+**But separate the fact from what people make of it** (`16-religions-after-the-wars.md` §Who actually holds a position). Three layers, not one:
+
+- **Law and practice** — unambiguous, operational, everywhere, uncontested.
+- **The considered view** — the subjectivity does not cross. Held by people who have had to think: physicians, the people it happened to, and the traditions that have worked at it.
+- **The naive default** — held by most people, absorbed rather than reasoned: some vague continuity. *She's back. He came home.*
+
+**Book 2 is the worked example**, in Lev's mouth to Oleh Itzal: *"every person has to decide for eirself what reconstruction means. Whether the person who comes out of the creche is the same person who went in."* The mechanism is settled; **the meaning is explicitly a personal determination**, and a physician puts it to a patient as one. That is why four religious answers (`16`) coexist without anyone being a general heretic — and why the Church's interest lies in the Angels and in authority, not in what you think about creches.
 
 **And the copy inherits anyway** — identity, name, career, legal standing, household, obligations. Book 3, from the displaced original's own mouth: *"My life was hers, fair and square. I died! She was the new Erszbet Erdos! I had no legal claim to that identity."*
 
@@ -73,4 +81,4 @@ Both are minority positions against the general understanding, and both are deta
 
 ---
 
-**Related**: `16-religions-after-the-wars.md`; `08-book3-novel-scan.md` (the published Book 3 material); `morgan-jasper/reference/09-church-of-the-makers.md` (Apotheosis; Isono's betas as the proliferation case); `04-conflicts-and-decisions.md` (clone-displacement ethics).
+**Related**: `16-religions-after-the-wars.md`; `18-the-caretakers-virtue.md`; `08-book3-novel-scan.md` (the published Book 3 material); `morgan-jasper/reference/09-church-of-the-makers.md` (Apotheosis; Isono's betas as the proliferation case); `04-conflicts-and-decisions.md` (clone-displacement ethics).

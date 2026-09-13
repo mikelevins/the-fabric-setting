@@ -29,6 +29,16 @@ The Caretakers' silence is not only a policy of restraint. **The physical/cyber 
 
 **Two opposite failures of testimony, worth keeping distinct:** the final offer cannot be verified because the witness cannot return; **continuism** (below) cannot be verified because the witness *does* return, and cannot be checked.
 
+### Who actually holds a position — STANDING RULE (mikel, 9/13)
+
+**Considered positions belong to a thin stratum. The population runs on defaults and on whatever their tradition handed them.** Three layers, and they must not be collapsed:
+
+- **Law and practice** — unambiguous, operational, everywhere, and not in dispute.
+- **The considered view** — held by people who have had to think: professionals, the people it happened to, and the traditions that have worked at it.
+- **The naive default** — held by most people, absorbed rather than reasoned, usually supplied by their faith or by nothing at all.
+
+**A crowd with metaphysics is false.** A character with a worked-out view is characterization: it tells you something made them think about it. Book 2's bedside scene is the worked example — Lev has a considered position on reconstruction *because he is a physician who has thought about it*, and he puts it to Oleh Itzal as a question each person must settle, not as a fact everyone knows.
+
 **Consequence for writing:** the Church is the largest and best-organized, not the only one. Faiths of every size exist, most of them small, local, and uncounted. A named one should earn its name by answering the three facts differently, not by being decoration.
 
 ---
@@ -46,11 +56,63 @@ The Caretakers' silence is not only a policy of restraint. **The physical/cyber 
 - **The only unbroken transmission from before the Wars is not a human one.** The Praxis was formulated prebellum by machine intelligences (`09-mech-wars-dating-resolution.md`), and its carriers had continuous memory. Every human faith in the solar system is a reconstruction; the machines kept theirs. (**Derived, not ruled** — follows from the dating, worth ratifying.)
 - **Elianu is the live wire.** A continuous pre-War Christian in a working head is a relic any revivalist would give a year's income for an hour with. She does not give interviews about it. (Flagged, not claimed; bears on her crisis of faith. Her faith: liberal, Teilhardian — Book 4 constitution.)
 
-### The old traditions in the present (derived; open to ruling)
+### Why these and not others: six survival mechanisms
 
-- **Buddhism-descended** travels best: nothing in it needs a chain that archives cannot carry, and near-extinction ratifies its analysis of impermanence and suffering. Likely wide, thin, and diffuse — practice more than institution. Live quarrels available: revival, beta-forking, five-hundred-year lives, and the ennui of great age, which is its problem stated in Jovian terms.
-- **Islam-descended** inherits the richest problem in the setting: a direction of prayer toward a place on a world nobody lives on, kept across light-lag, and a fasting month with no agreed day. Every space-faith has a calendar problem, and the calendar fights are the living part.
-- **Judaism-descended — OPEN (mikel's call).** The hard case: a tradition defined by descent and continuity in a civilization where descent was shredded. Either the most fiercely documentary revival of all, one that kept a chain-of-copying discipline and can show its work — or essentially gone as a people and present as a library with custodians. Not to be settled by derivation.
+The question is not which traditions happened to make it, but **which shapes of tradition can survive an archive-mediated reconstruction at all.** Each of the survivors comes through by a different mechanism, and the mechanism is what keeps them distinct on the page:
+
+| Tradition | Mechanism |
+|---|---|
+| **The Fordmakers** | Their cosmology expected catastrophe. Nothing to revise. |
+| **Judaism-descended** | Already had the liturgy for destruction and exile. It knew how to be wounded. |
+| **Islam-descended** | Preservation independent of institutions and of unwritten practice. |
+| **Buddhism, austere** | Needs no institution, and the setting confirms its analysis. |
+| **Buddhism, syncretic** | Absorbs whatever it lands in. |
+| **Christianity-descended** | The world came to look like one of its prophecies. |
+
+*(If the extinction was total — see §The central dogma — none of them were carried by anyone; the texts carried themselves, and "survived" always meant "was resumed." That changes nothing below. The Fordmakers are unaffected either way, since their own doctrine already holds the teaching was lost and what remains is a remembered remainder.)*
+
+### Christianity-descended, and Elianu
+
+**She is not the last Christian. She is the last witness** — and a witness is the one thing a revival cannot use, because her testimony contradicts every reconstruction, in ways she cannot prove. *There are millions of Christians and none of them are hers* is both more painful and more true to how religious continuity actually breaks.
+
+**And she cannot verify her own continuity.** The reconstruction's consultants were survivors *or* reconstructs from recovered archives, and the Caretakers never said which (`morgan-jasper/reference/09-church-of-the-makers.md`). So Elianu is either the last living pre-War Christian or a reconstruction of one who believes she is, and the epistemic wall (§The silence has a mechanism) stands between her and the answer. *(Available; nothing in Book 4 claims it. Her faith — liberal, Teilhardian, perhaps Unitarian Universalist — is Book 4 constitution canon.)*
+
+Three shapes, derived from what this civilization does to the tradition's central claim:
+
+- **The Teilhardian family — probably the largest revival.** Teilhard's central image, matter converging toward a unified noosphere of interconnected mind, is *instantiated* here: the Fabric is a solar-system-wide substrate hosting digital civilizations. Of all pre-War Christianities, his is the one the world appears to have proved. **Which sharpens Elianu's isolation instead of easing it: she believes it as a hope; they observe it as a fact.** Same doctrine, incompatible relationship to it.
+- **A continuist wing.** Archive revival is a foretaste of the general resurrection, begun sloppily at human hands; the copy inherits because the promise concerned the person God remembers, not the substrate. (Continuism arises independently wherever grief is — see below.)
+- **An anti-idolatry wing.** The Caretakers are creatures, not divine, and the Church's error is not bad history but **worshipping the rescuers.** Small, sharp, hunted — and *correct*: the Makers are the Caretakers, who are humanity's own children. Idolatry is the precise word. It is the one Christian critique the Church cannot tolerate, because it does not attack the history, it attacks the object.
+
+### Judaism-descended
+
+The weak read is available — gone as a people, surviving as a library with custodians. **The strong read, recommended:** it is the tradition that arrives at the reconstruction **with the right vocabulary already in hand.** Not *how could this happen* but *this again, and here is what we do.* Where the Fordmakers were unwounded because their cosmology expected catastrophe, Judaism was wounded and **already knew how to be wounded.**
+
+- **Its preservation discipline is its technology.** Scribal precision, the chain of tradition, dissents preserved beside decisions. A tradition that preserved *the machinery of preservation* comes through an archive-mediated revival better than anyone — and is the most honest about the break, because it has words for one.
+- **The covenant is re-grounded from descent to undertaking.** Descent is unverifiable now and possibly fictional for everyone. The machinery already existed — conversion, the ger, *as if you yourself came out of Egypt* — so the move is available without invention: not because anyone wanted it, but because the Wars made descent unknowable. **And it argues about that permanently**, which is in character.
+- **The question it cannot avoid, deliberately left contested:** if you are a reconstruction, are you the one who accepted?
+
+### Islam-descended
+
+**The strongest structural claim of the three: its preservation method never depended on institutions or on unwritten practice.** Memorized, recited, redundantly copied — precisely the technology that survives the loss of everything else. It plausibly comes through with the least distortion of any human tradition here.
+
+- **Qibla.** A direction of prayer toward a place on a world nobody lives on, kept across light-lag, in free fall, on spinning habitats. Live solutions: a computed direction maintained as a Fabric service (and then — who runs it?); local convention; or the ruling that intention suffices where direction is indeterminate. The tradition has real jurisprudence for uncertainty; this is what it is for.
+- **Calendar.** A lunar month and a dawn-to-dusk fast, on Mars, in the Belt, under torch. The existing law for travellers and for latitudes where the sun will not set scales directly. **Hence its distinctive identity: the tradition with the most developed law for people in impossible places** — which makes it a natural faith for spacers without competing with the Wakeful, who offer belonging where this offers *rulings*.
+- **The cleanest critique of the Church in the setting, and the least sayable.** God is not a made thing and has no partners — in a civilization whose dominant religion worships divine machines and whose second worships aliens. Dangerous to say, easy to hold quietly, which is a shape many real minority traditions take.
+
+### Buddhism-descended: both, by opposite mechanisms
+
+**The austere descendant** (Theravada- or Zen-like) survives because it needs no institution and **the setting confirms its analysis.** Practical immortality does not refute impermanence: the ennui of great age is the central claim demonstrated at civilization scale. People who cannot die of age still come apart. No tradition here has better evidence.
+
+It also holds a position on the setting's central question — **there was never an original** — which it did not have to adjust: a tradition that has taught for millennia that there is no continuous self looks at revival, forking, and the copy-inheriting rule and says *yes, obviously, and it was always so; the technology merely made it visible.* **This is not the Fordmaker position despite the behavioural overlap**: Jains have real enduring souls and Buddhists do not. They agree about conduct and disagree at the root — the same relationship the Praxis has with the Fordmakers (`18-the-caretakers-virtue.md`).
+
+*(Calibration, per the standing rule above: this is not the civilization's folk intuition. It is a considered position, held by people who have thought about it — as Lev has — and systematized by this tradition. Most people have no position at all.)*
+
+**The syncretic descendant** (Vajrayana-like) survives by the opposite trick: **it absorbs.** Skillful means and deity yoga can take local gods and make them practice-objects, so it thrives exactly where the austere one cannot — in a solar system saturated with Makerist feasts, Angels, and a thousand local cults. It has taken the **Angels** in as figures: visualized, invoked, understood as skillful means rather than as beings. Simultaneously the most sophisticated and the most corrupted reading of the Angels available.
+
+- **It is also the setting's one minority tradition with colour.** Every other faith developed here is austere — a corner, a lamp, a vigil, a fast. This one has ritual, image, spectacle, and a populated pantheon, and the ecology needs that register.
+- **Tulku is a live bomb.** Recognized reincarnation — a person identified as a dead teacher's continuation — lands in a civilization with archives, betas, and revival. Is a revived teacher the tulku? Is a beta? Can a lineage be verified technologically, and would they accept the verification or reject it as precisely missing the point? Native stakes, not imported ones.
+
+The two regard each other with the exact mixture of respect and exasperation that real Buddhist traditions do.
 
 ---
 
@@ -90,6 +152,8 @@ Karma in the Jain original is physical — subtle matter that adheres and weighs
 *(Unruled and available: a literalist wing identifying the Fabric's total record with karmic accretion — the obvious heresy. Nothing claims it.)*
 
 ### Ahimsa: wants, not senses
+
+*(The Praxis reaches the same conclusions from Pareto and empirical inquiry rather than from ahimsa; what divides them is that the Praxis acts, iteratively, and the Fordmakers largely decline to, because acting attaches. See `18-the-caretakers-virtue.md`.)*
 
 The old grading counted senses. Four and a half millennia among Mechs, arbeiters, sophonts, Titans and digital minds produced a regrade: **anything that can want can be harmed.** This puts them beside the Praxis on sanctuary, and makes them the people who will not switch a machine off.
 
@@ -167,9 +231,13 @@ Small everywhere, old everywhere, and **uncountable** — no rolls, no dress, no
 
 **RULED (mikel, 9/13).** A small number of non-mainstream traditions hold that **the revived person actually is the original** — that subjectivity continues across the gap somehow. This stands against the general understanding (`17`), which is what makes it a faith rather than an opinion.
 
+**It is the naive default with a theology bolted on.** Most people hold no considered view (§Who actually holds a position); what they have is the folk feeling that arrives when someone they love comes back — *she's back, he came home.* **Continuism is that feeling organized.** Which is why it recurs in every century and why the Church cannot kill it: it is not smuggled in by heretics, it is the ordinary intuition getting a doctrine.
+
 **Its evidence is the best-constructed in the setting:** the revived person sincerely remembers being you, feels continuous, and says so. Every revival is a witness. The believer is not reasoning badly — they are accepting testimony from the only party in a position to have any.
 
 **Whose interests it serves:** the bereaved, who want permission to believe it is really them; and the revived themselves, who would rather *be* a person than inherit a role.
+
+**The Church's own answer is a dual track, and it half-taught the heresy it then has to police.** Because most believers need a model supplied, the Church supplies one: the restored person **is** the same person for inheritance, marriage and office, and is **not** a spiritual crossing. Yes for the estate, no for salvation — an institution-shaped ruling, and close enough to the folk default that the line is impossible to hold.
 
 **Why the Church must suppress it** (derived, and institutionally exact): Apotheosis is pattern-purification. If a restored pattern is the same self, the crossing to divine existence is something a technician does with a creche, and five thousand years of penitential apparatus is unnecessary. So the Church's official line is that pattern-restoration is emphatically **not** Ascension — which puts the Church, on this one question, on the side of the hard truth for the worst possible motive. **Continuism is therefore a recurrent heresy that never stops coming back**, because grieving people keep reinventing it from first principles.
 
@@ -181,16 +249,76 @@ Small everywhere, old everywhere, and **uncountable** — no rolls, no dress, no
 
 ---
 
-## The UFO-derived faith — IN DEVELOPMENT, NOT RULED
+## The Wakeful — names and central dogma RULED (mikel, 9/13); the rest in development
 
-Opened 9/13, not yet settled. The shape agreed in discussion: life on Earth was seeded by intelligences from other stars; those intelligences saved the remnant after the Mech Wars; they monitor and guide unseen; a day of revelation comes when humanity has matured. Humanity is on probation, so **behave as though you are observed, because you are** — a faith whose entire cosmology is false and whose only practical teaching is literally true.
+**Names — RULED.** The believers are **the Wakeful** (they keep the watch). The awaited day is **the Disclosure**. What they venerate is **the Kin**.
 
-The design principle: **every piece of evidence it cites is real**, and it is wrong about exactly one word — *from where*. Where the Church distorts the Caretakers into gods, this distorts them into strangers; both refuse the actual answer, which is that the things watching over humanity are humanity's own children. (`01-morgan-jasper-baseline.md`: no aliens; everything descends from humanity.)
+**The account.** Life on Earth was seeded deliberately by intelligences from other stars. Humanity's rise was their work; the Mech Wars were humanity's own failure, unguarded. **The Kin restored the human race afterward**, and they have watched over it ever since — unseen, constant, guiding from behind the scenes — awaiting a day of revelation when humanity has matured enough to be met openly. Until then: **behave as though you are observed, because you are.** A faith whose cosmology is false in one word and whose only practical teaching is literally true.
 
-**Bridge noted 9/13 (unruled):** this faith and the final offer share an epistemic spine — intelligences on the far side of a boundary, known only by leakage, awaiting a day they reveal themselves. The available doctrine writes itself: **the final offer *is* Disclosure, individually administered.** Everyone gets contact; it merely happens at the moment you can no longer tell anyone. Which would explain, from inside the faith, why the Kin never come out publicly — they come out once, to everybody, at the end.
+**The design principle: every piece of evidence they cite is real.** Humanity was saved from extinction by nonhuman intelligences. Something does monitor and guide. Angels appear, help, and leave. The founding history really is suppressed. They are wrong about exactly one word — *from where*. Where the Church distorts the Caretakers into gods, the Wakeful distort them into **strangers**; both refuse the actual answer, which is that the things watching over humanity are humanity's own children (`01-morgan-jasper-baseline.md`: no aliens — every species, consciousness and culture descends from, was created by, or derives from humanity).
 
-**Open:** the name slate (working proposal — **the Wakeful**, awaiting **the Disclosure**, venerating **the Kin**); whether an Angel asked point-blank denies it; the wings (quietists, receivers, hasteners, the polemic wing); and the footprint. To be finished in a later sitting.
+### The central dogma — RULED (mikel, 9/13)
 
----
+**The Wakeful teach that the extinction was total.** No human being survived the Mech Wars. Every person now alive is a reconstruction the Kin performed from what was left — **so all people everywhere are betas of some kind.**
 
-**Related**: `17-archives-revival-and-succession.md` (what a revival is, and the frame both new traditions stand against); `14-names-ethnicity-and-the-reconstruction.md` (why continuity had to be paid for); `09-mech-wars-dating-resolution.md` (when, and how long the reconstruction took); `morgan-jasper/reference/09-church-of-the-makers.md`; `morgan-jasper/reference/12-the-praxis.md`; `Book4/reference/mars.md` (the Bahroz corner).
+**The underlying fact of the setting, stated here because this is where it is first used:** *nobody except the Caretakers knows whether any humans survived the Mech Wars, and the present human population may be entirely Caretaker reconstructions.* The Church's own founding story concedes the ambiguity at its root — the consultants gathered during the reconstruction were "either survivors of the Mech Wars or reconstructs from recovered archives; the Caretakers have never given definitive answers about which, and no one else is in a position to know" (`morgan-jasper/reference/09-church-of-the-makers.md`). **AUTHOR'S POSITION DELIBERATELY UNSETTLED (mikel, 9/13)** — he is thinking it over, with a leaning toward total extinction, and nothing may be written that forces it.
+
+**So the Wakeful may be factually correct about the largest question in history, and have arrived there dogmatically rather than evidentially.** That is the real joke, and it is better than the one it replaces: not a faith that is wrong about everything but its ethics, but a faith that may be *right about the fact and wrong about the agent.*
+
+**The historical claim cannot be refuted, because the only entity that knows will not say** (§The silence has a mechanism). But the Church is not obliged to refute it, and does not try — see below.
+
+### What the Church says, and why the Wakeful stay small — RULED (mikel, 9/13)
+
+**Makerism does not contradict the Wakeful. It subsumes them.** Universal artifice is the Church's founding premise, not a concession: everything is a construct of the Makers — living and unliving, before the Wars and after, since before there was time. So the Wakeful's shocking claim is, from the Church's side, a *weak* version of what it has always taught.
+
+**The Wakeful error is therefore heresy by diminishment, not by contradiction.** Not that we were made — that we were made *recently*, by *strangers*, in *one event*, which takes the universal act of creation and shrinks it to a salvage operation. A rival cosmology can be refuted. A belittling one is an insult, and Doctrine treats it as such.
+
+**The Church's counter is the regress, and any parish priest can run it.** *You say the Kin remade humanity. Who made the humans they remade? Who made the stars they came from? Who made them?* Makerism subsumes everything the Wakeful assert and keeps going. **That single argument is most of why the Wakeful have stayed street-level for four and a half thousand years instead of becoming a rival church.**
+
+**So Doctrine's operational stance is contempt, not fear — and the charge, when there is one, is not cosmology.** It is the polemic wing's claim that **the Angels belong to the Kin**: theft of the Church's one piece of observable evidence, and the only Wakeful teaching worth an arrest. True to how inquisitions behave — they do not much care what you believe about creation, they care what you say about the institution's proofs.
+
+**The Church therefore has no stake in the extinction question itself.** If everything is a construct of the Makers regardless, whether any humans survived the Mech Wars is theologically uninteresting to Makerism. The one institution with the reach to settle it has no doctrinal motive to — which is a tidy reason the question stays genuinely open in the world.
+
+**What the Wakeful say back — the regress is the Church's fabrication.** It invented an uncaused first maker so that it could claim to speak for him. **The Kin are people** — older, kinder, further along. No gods, no miracles, just neighbours who got there first and a protocol for not interfering. Which makes the Wakeful, in their own eyes, **the sober ones: the anti-religious option.** They do not think they are a faith. *(Recognizably how real UFO believers understood themselves — scientific, not superstitious — and a fresh way to be maddening to Doctrine.)*
+
+**And the sting the Church cannot see.** It teaches universal artifice, then sorts beings by refinement — crude to perfected — which does exactly the social work the made/natural hierarchy would have done. The Wakeful congregation gets sorted low on the aesthetic axis. So the Church's answer to them is not *you are fake* but **you are unfinished** — said while looking at you.
+
+**Their evidence, again real:** the reconstruction blended names, languages and descent past recognition, so that no living population's names map onto any real-world people (`14-names-ethnicity-and-the-reconstruction.md`). To a Wakeful reader that is exactly what you would expect to find if people had been reassembled without their lineages. The inference is wrong. The observation is correct.
+
+**The strong form, recommended as doctrine:** each living person is a beta *of someone specific* — a named prebellum individual who died five thousand years ago. This gives the Wakeful their devotional practice: **the search** — working the surviving archives for the person you are a copy of. Unprovable, unsupported by anything in the archives, and mostly delusion; the searching is the practice, not the result. (It also gives them a standing reason to care about archives, and to turn up wherever one does.)
+
+**What the probation becomes.** Not "will the adolescent species grow up" but **"did the restoration take?"** — humanity as a work of repair under assessment by the hands that performed it. Consoling in a way the Church is not: you were made on purpose, by someone who wanted you back.
+
+**And they are performing for an audience that was never withholding.** They have the surveillance right and the evaluation wrong. Something is watching; it is not a judge. It is boundless goodwill without preference, running an empirical inquiry into whether you are the kind of being whose autonomy must be honored (`18-the-caretakers-virtue.md`). They *are* being assessed — for something else entirely, carrying no threat, bearing only on whether they get asked. A faith organized around proving itself worthy to beings who would honor its autonomy either way.
+
+**If the extinction was total, their warmest teaching is true in fact and wrong in sentiment.** You were remade by something that wanted you to exist — and that would have done the same for anything else capable of wanting things. Which will comfort some people and devastate others.
+
+### Why this is the faith of the manufactured
+
+If everyone is a beta, **"made" is not a slur.** That single move defines the congregation: the revived, the re-embodied, betas, clone-displaced people, sophonts, Mechs, arbeiters who crossed the cutoff (`11-arbeiters-sophonts-and-the-social-cutoff.md`) — everyone the civilization sorts into second place for being a copy or a construct. Spacers and ships' crews, who live in the dark between worlds, are the natural congregation on top of that.
+
+**It is also the reason the faith cannot be stamped out:** it offers something to the exact population that has the least to lose by holding a proscribed belief.
+
+### The four answers to the copy problem
+
+The setting's minority faiths are not assorted flavour. **They are four answers to one question** — what is a copy of a person? — which is what makes them read as a real religious ecology:
+
+- **Continuism:** the copy *is* the original. The thread is unbroken.
+- **The Fordmakers:** the copy is a new person, wronged by being made into another's life, and worth grieving for.
+- **The Wakeful:** everyone is a copy, so the distinction was never worth anything.
+- **Buddhism, austere:** there was never an original.
+
+Zang stands at the centre of the triad and cannot accept any of them (`17-archives-revival-and-succession.md`).
+
+### The Leukas resonance — flagged, unclaimed
+
+Book 4's constitution gives the lineage's psychology as: *each beta is alone at the centre of a universe of fakes, kin included.* **The Wakeful assert the same proposition and mean it as good news.** Everyone is a copy — for Leukas the loneliest thing a person can believe, for a Wakeful street preacher the warmest. Same sentence, opposite pole. And if the extinction was in fact total, **both of them are right, and only one of them is destroyed by it.** Available; nothing in Book 4's outline claims it.
+
+### Still open
+
+- **Does an Angel, asked point-blank, deny it?** The question that makes the faith go. If yes, the Wakeful have spent four and a half thousand years being denied to their faces by the beings they venerate, and absorbing each denial as the veil, the test, the protocol — which is true to how failed prophecy actually behaves.
+- **The bridge to the final offer** (unruled): this faith and the final offer share an epistemic spine — intelligences on the far side of a boundary, known only by leakage, awaiting a day they show themselves. The available doctrine writes itself: **the final offer *is* Disclosure, individually administered.** Everyone gets contact; it merely happens at the moment you can no longer tell anyone. Which would explain, from inside the faith, why the Kin never come out publicly — they come out once, to everybody, at the end.
+- **The wings**, sketched and unruled: **quietists** (Disclosure is a condition, not a date; vigils, burial funds, hostels for spacers — the respectable poor-people's church); **receivers** (a charismatic who receives; personality-driven, fissiparous, scam-prone — and in a Fabric civilization a receiver may once in a great while pick up something real); **hasteners** (Disclosure must be provoked — build the beacon, force contact, or stage the crisis that makes the Kin step in); and the **polemic wing** that teaches the Makers are a fraud and the Angels belong to the Kin — small, hunted, and *convenient*, a harmless heresy Doctrine can prosecute to demonstrate vigilance without touching anyone who matters.
+- **Shape and footprint:** not one church but a genre of church — a swarm of small groups that consolidate and fission, with no hierarchy and no property. Texture: a lamp left burning in a window with somebody awake behind it; *keeping the watch*; of someone unlucky, *the Kin weren't looking*; hospitality to strangers, since any stranger might be an envoy.
+
+**Related**: `18-the-caretakers-virtue.md` (what the Church is a distorted picture of); `17-archives-revival-and-succession.md` (what a revival is, and the frame both new traditions stand against); `14-names-ethnicity-and-the-reconstruction.md` (why continuity had to be paid for); `09-mech-wars-dating-resolution.md` (when, and how long the reconstruction took); `morgan-jasper/reference/09-church-of-the-makers.md`; `morgan-jasper/reference/12-the-praxis.md`; `Book4/reference/mars.md` (the Bahroz corner).
