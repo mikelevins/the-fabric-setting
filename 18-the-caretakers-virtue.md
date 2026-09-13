@@ -43,6 +43,35 @@ A permanent, sincere, open inquiry into *which kinds of entities can participate
 - **The Fordmakers arrive at the same place by another road.** *You cannot know another being's standards; anything that can want can be harmed; do not rank beings* — reached from ahimsa and many-sidedness rather than from Pareto and inquiry. What still divides them is real and unsymmetrical: **the Praxis acts, iteratively; the Fordmakers largely decline to, because acting attaches.** They agree about beings and disagree about what to do about it.
 - **Elianu's revival practice is this virtue, held by a biological Christian who learned it from neither source.** She finds Isono archives, revives them, creates conditions, never imposes a model of what the new person will choose, stands back, honors the answer. Three traditions converging on one behaviour from three directions.
 
+## The Angels: discretion, not policy — RULED (mikel, 9/13)
+
+**The Caretakers construct Angels as entities with Caretaker capabilities and Caretaker information but *human perspectives*** — precisely so that they can make informed judgments from a human point of view. They are recruited and trained accordingly (converted from human survivors or from safety archives — `04-conflicts-and-decisions.md`), and they are **granted broad discretion to make judgment calls.**
+
+**So there is no Angel policy on any particular question, and no such thing as what "an Angel" would say.** They are individuals, with different personalities, different eras, and different histories. The most that can be said is what they are trained to do:
+
+> **preserve the invariants of the human-civilization wildlife preserve, while observing Praxis ethics.**
+
+### The tension that produces the variation
+
+Those two obligations pull against each other, and each Angel resolves the pull as a particular person.
+
+- **The invariants** push toward discretion: the one-way boundary; the preserve's continued existence as a natural embodied world; the requirement that entities who have not chosen to exit do not lose the choice.
+- **Praxis ethics push toward candour.** You do not get to protect someone from a truth by deciding on their behalf that they are better off without it — that is imposing a model of the entity's choice, which is the ethics violation this document is built on. The honest move is usually to answer, or to ask them what they want to know.
+
+**A judgment call at that intersection, made by someone with a human biography, is not predictable and is not meant to be.** Two Angels can face the same question and answer differently, and both be right.
+
+### What follows
+
+- **The truth is not kept — it is told, repeatedly, and it does not stick.** Telling one person plainly what an Angel is erodes no invariant; nobody would believe them. So across five thousand years the true account has been given honestly to whoever asked, and absorbed by the faiths that had an explanation ready. The Office of Doctrine's suppression of the founding truth is very nearly redundant.
+- **Angels are not interchangeable and are not a uniformed service.** Each is somebody. Which means the Church's veneration of them puts every Angel personally on the spot: some would be embarrassed, some would correct it, some would let it stand because correcting it would do more harm. Five thousand years of that is why Church Angel-lore is a contradictory mess — which is exactly what real hagiography looks like.
+- **An Angel in a story is a character, never an instrument.** Anything an Angel does or declines to do is somebody's judgment call, and has to be written as one.
+
+### Book 4's worked example, already in place
+
+**Keryx.** A member of the Isono lineage, redeemed, graduated to angelhood — taking up the office his ancestor designed. In Movement Three the granted warrant is **never executed**: he stands down, and does what the philosopher did when he died — **rescue and palliative care for the uninvolved, without changing the outcome** (Book 4 `reference/constitution.md`).
+
+That is not a plot device. **It is exactly what this ruling describes**: Caretaker capability, a human perspective, broad discretion, the preserve's invariants held while Praxis ethics are observed. Palliation of the uninvolved without altering the outcome *is* Praxis under invariants. The stand-down is a judgment call made by a particular person with a particular history, which is the only kind of thing an Angel ever makes.
+
 ## Lev
 
 **The Praxis vignette's interlocutor is Lev** — Doctor Lev Chrysotile, walked through Pareto improvement and sanctuary by Sedna Hexaflouride, a Ribeiro model H mech (`morgan-jasper/reference/12-the-praxis.md`, §Source Material).
