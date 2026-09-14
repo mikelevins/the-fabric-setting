@@ -9,7 +9,7 @@
 
 **The Mech Wars disintegrated ethnic and linguistic identity, and the Caretakers' reconstruction remixed what was left past recognition.** There is no surviving population whose names, language, or descent map onto a real-world tradition. Names in this civilization are drawn from a thoroughly blended pool.
 
-**Therefore, when naming anyone: a name should not read as belonging to any one real-world people, language, or region.** The house register is blended — consonant-rich, two or three syllables, vowel patterns that do not resolve to a single source. The existing cast is the calibration: *Khofir, Timoron, Leukas, Dravec, Verhaeren, Wracket, Elianu, Esgar, Jaemon, Burrel, Okafor, Yaug, Zang, Angier, Yarrow, Keryx, Maltis, Auron, Serik* — and the place names *Bahroz, Woaradan, Waldorf, Downcanyon*.
+**Therefore, when naming anyone: a name should not read as belonging to any one real-world people, language, or region.** The house register is blended — consonant-rich, two or three syllables, vowel patterns that do not resolve to a single source. The existing cast is the calibration: *Khofir, Timoron, Leukas, Dravec, Verhaeren, Wracket, Elianu, Esgar, Jaemon, Burell, Okafor, Yaug, Zang, Angier, Yarrow, Keryx, Maltis, Auron, Serik* — and the place names *Bahroz, Woaradan, Waldorf, Downcanyon*.
 
 ## What the rule does not mean
 
@@ -24,5 +24,9 @@
 - **Soft ethnicity remains real and visible.** The reconstruction blended descent; it did not make everyone alike. Populations differ by world and by gravity well — Kestrel Book 4's Martians are thick-bodied, short and wide; Earthers bigger and paler — and those differences are ordinary, remarked on, and occasionally the basis of ambient prejudice. The rule governs *names and linguistic descent*, not bodies.
 
 ---
+
+## Spelling drifts across editions
+
+A name's spelling can move between books, and the reference layer should record which form is current rather than pretending there was never a change. **Worked example — Kestrel's chief engineer: *Burell*, one R and two Ls, ruled for Book 4 (mikel, 9/13).** Earlier material used *Burrell* and then *Burrel*; **Books 1–3 as published carry an older form, and the author intends to reconcile them in second editions.** The book-scan files here record what those books actually say and are **deliberately left unchanged** — they are evidence, not canon. When a scan and the live project disagree on a spelling, the live project wins for new work and the scan stands as the record.
 
 **Related**: `09-mech-wars-dating-resolution.md` (when the Wars were and how long the reconstruction took); `10-children-and-schooling.md`; `12-earth.md`.
