@@ -82,3 +82,31 @@ Both are minority positions against the general understanding, and both are deta
 ---
 
 **Related**: `16-religions-after-the-wars.md`; `18-the-caretakers-virtue.md`; `08-book3-novel-scan.md` (the published Book 3 material); `morgan-jasper/reference/09-church-of-the-makers.md` (Apotheosis; Isono's betas as the proliferation case); `04-conflicts-and-decisions.md` (clone-displacement ethics).
+
+---
+
+## Archives, suspension, and the offer — RULED (mikel, 9/15)
+
+*(Ruled in the Kestrel subcreation sitting; full record `kestrel/subcreation-offer-seeds.md` §1. Sharpens §The rule above and corrects Book 4's constitution, which had carried "a safety archive is a coma, not a death.")*
+
+**The archived person died.** For survivors a safety archive is equivalent to a coma the person may recover from. For the person archived, death is death: the one who died is permanently dead, the revived person is a copy — and **that death triggers the final offer.** Consequently the pure-software realm may hold **many continuations of "the same" person, transferred to immortality at multiple different moments of death.**
+
+**What an archive physically is.** A safety archive is an **inert scan** of the state of a living person. It was never alive; the scanned person was. When the scanned person dies and **their death is propagated over the Fabric, the safety archive is activated for reconstruction** — assuming it is stored in a creche, or in storage connected to one.
+
+**Field archives** differ only in being constructed in emergencies when no creche-connected storage is available: an emergency safety archive made from a scan **at the moment of death**, in a person equipped for it (a small minority, in high-risk jobs). They are less desirable *because* they execute at the moment of death — the reconstruction is of a person in a mortally compromised situation, and you may or may not be able to keep them alive.
+
+**Suspension is not death.** The Abjurer aboard the *Angel of Cygnus* (Book 2) was never killed and archived; it was **stopped** — suspended between instructions, no more dead than a swapped-out process in a single-processor concurrent system, restartable in principle at any time. Alive, and offered nothing.
+
+### The taxonomy (derived from the rulings)
+
+Three states, not two:
+- **Suspended** — the same process, stopped. Alive. No offer.
+- **Archived and revived** — the original died and was offered; a copy continues embodied.
+- **Dead** — dead (and offered).
+
+### Consequences (derived, Claude)
+
+- **One event, two triggers.** The propagation of a death over the Fabric brings the Caretakers to the threshold *and* activates the archive. That shared trigger is why revival and the offer are so easily confused in folk teaching (*she's back*), and why any honest correction has to separate them: *the offer went to the one who died; revival made another.*
+- **A failed field-archive revival is a second death and a second offer.**
+- **Worked instance:** Yaug's century in the creche (Book 4) was a death and an archive; the Yaug of Book 4 is a reconstruction whose original was offered.
+- **For the Abjurers** this taxonomy matters strategically — see `04-conflicts-and-decisions.md` §The three factions after the war: an archive does not protect a partisan from the offer; only a stopped process escapes the net.

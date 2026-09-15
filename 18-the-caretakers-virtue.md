@@ -124,3 +124,30 @@ And in **Book 2** he practises it at a bedside, with Oleh Itzal: *"every person 
 ---
 
 **Related**: `16-religions-after-the-wars.md`; `17-archives-revival-and-succession.md`; `morgan-jasper/reference/12-the-praxis.md`; `morgan-jasper/reference/09-church-of-the-makers.md` (corrected 9/13); Book 4 `reference/constitution.md` §Caretaker doctrine.
+
+---
+
+## A practice, not a rubric — RULED (mikel, 9/15)
+
+*(Ruled in the Kestrel subcreation sitting; full record `kestrel/subcreation-offer-seeds.md` §§3, 9, 10. Extends §The kernel is executable.)*
+
+### The unresolvable center
+
+**There is no clean, simple solution to the problem of simulation.** If simulations are allowed (`20-subcreations.md`), then given enough of them, made by enough makers with enough variation, and with enough variation in the denizens, **atrocities within them are inevitable in the fullness of time.** The Caretakers' bias against interfering with the natural development of others is strong enough that they will often conclude they cannot intervene to mitigate those atrocities without sabotaging that development — **and they cannot prohibit the inauguration of new simulations on the same grounds.**
+
+**Bounds exist, fuzzily.** There must be bounds beyond which they are moved to action — they intervene to prevent genocide and global catastrophe. Whatever calculus moves them there **has a fuzzy boundary, because such conditions admit only fuzzy definitions; so different individual entities with Caretaker powers hold different precise boundaries.** The rules are defined, but fuzzily. *(This is the institutional form of the live call: an intervention decision needs a person to make it, and persons differ — Book 4's rule that they act when a qualified, trusted agent decides to is this fact seen from the mandate's side.)*
+
+**The Praxis is a practice** — a perpetually ongoing work in progress, constantly evaluated, adjusted, improved — not a fixed rubric.
+
+**It requires a discipline of reporting and remembering.** Those who act and those who watch must report what they witness and submit it to analysis and argument. **That is how the Praxis progresses.**
+
+**Two figures (mikel).** The Caretakers and the practitioners of the Praxis are *"Israel"* — not the political nation; the metaphor: **a population of entities who wrestle with God.** And the culture of the Praxis is, in a way, **a rabbinic culture — a culture of argument.**
+
+### What follows (derived, Claude)
+
+- **A practice has case law.** The kernel is executable and testable (§The kernel is executable), so every intervention and every refusal is a test case, and the accumulated cases *are* the practice. A short unchanging kernel (*ask, do not compute*) under a vast commentary that never closes: machines wrote the procedure, the culture wrote the commentary.
+- **Dissent is preserved, not overruled.** Each agent's line is recorded beside the others — which is what per-agent fuzzy boundaries look like written down. Book 4's Keryx stand-down is a case, and the agent who would have acted is in the record too. **No central authority: argument is the authority.**
+- **The offer is witnessed, at scale, from one side only.** The attending Caretaker cannot report the room (the conduct and answer are sealed — `kestrel/Book4/reference/constitution.md`, Caretaker doctrine). But **the entity who accepts is a witness**, and the Fabric holds *trillions* of them, free to discuss it with one another, with the Caretakers, and with the general in-Fabric population (orders of magnitude larger still) — barred only from the still-embodied. *(mikel, 9/15: noted and deliberately not yet built on.)* So inside the Fabric there is no seal on the threshold at all; the seal is a fact about the preserve's side. The Praxis's case law on its central act is enormous — and **written by acceptors only**, which a culture of argument would know and argue about forever without being able to fix. The embodied hold the inverse: leakage.
+- **Memory runs one way, like everything else at the boundary.** Reports flow from the watchers in the preserve into the Fabric. The Praxis's memory of the preserve is total; the preserve's memory of the Praxis is leakage. The one-way glass, as an archive.
+- **The three edges of the figure all fit.** Jacob is named for the wrestling, not for winning; he does not defeat what he wrestles but refuses to let go until blessed; and he limps afterward. The Caretakers do not solve the problem of simulation — they refuse to let go of it — and the limp is every grief in the preserve, paid on principle. What they wrestle with, in the Praxis's own terms, is *the standard they may not compute* — the other party's — which is as close to God as an executable ethic can get.
+- **The hole in the kernel** is at the moment of creation: the Praxis regulates how you treat beings who exist and has nothing to say about whether to bring beings into existence, because the only valid source of the value is the other party and the other party does not exist yet. Worked through in `20-subcreations.md`.
