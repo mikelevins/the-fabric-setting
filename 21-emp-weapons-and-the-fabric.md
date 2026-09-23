@@ -1,0 +1,22 @@
+# EMP Weapons and the Fabric
+
+**Source**: mikel, 2026-09-23 (Book 4 sitting; ruled while deriving what Leukas could do to an aircar over the Consular Estate). Ruled canon; derived items marked.
+**Scope**: system-wide. Reconciles the Book 3 dock attack (`08-book3-novel-scan.md`) with the Fabric's physical basis (`01-morgan-jasper-baseline.md` §The Fabric).
+
+---
+
+## The weapon
+
+An "EMP weapon" in this setting is a **nuclear-type pulse**: a huge wash of rapidly changing electric and magnetic fields, followed by high-energy **gamma rays and neutrons** at close to the speed of light. Book 3's device was "the size of a vending cart or bigger" to deliver that flux across a dock.
+
+## What it does
+
+- **Macro electronics:** the field wash induces currents in conductors and wrecks ships' circuits, docks, power, drive and guidance electronics. Ships are shielded against it as a matter of course ("every ship is shielded; you have to be"); a very large pulse at very close range still does extensive circuit damage.
+- **Nanosomes:** the fields do little to nanometer-scale elements, but **the gamma and neutron rain destroys them** across the irradiated volume. The local Fabric is not paused; it is **holed**.
+- **Recovery:** the surviving mesh at the edges of the hole **regrows** the substrate until local services can be re-established. This takes **minutes**, and the effect and refractory period **can be precisely calculated** (a growth rate, not a protocol) — which is why a well-organized raid can be timed to the window (Book 3, Zang's reconstruction). The local Fabric recovers faster than a damaged ship, whose circuit damage is real.
+- **Inside the hole, until it regrows:** no channels, no overlay, no aiming assist, no effectors, no fabrication, and **no safety floor** — anything in the air falls on rock. (Derived: it looks from inside like a suppression bubble, but a bubble suppresses an intact Fabric and an EMP destroys it.)
+- **Biologicals (derived, flagged for ruling):** a flux intense enough to shred nanosomes shreds cells; anyone unshielded in the volume is badly irradiated or killed. *Open:* whether the Book 3 pulse itself killed the meeting party at the dock, with the boarding party in shielded gear, or whether they were shot.
+
+## Consequences for use
+
+An EMP is therefore a **radiological weapon**, deniable to nobody and a massacre under any polity's law. It belongs to an actor who has stopped caring who notices (Serik at Solomon, at the point of killing everyone in the room and their archives after). It is not a tool of an actor in a circumspect phase. *Book 4 ledger item (rule at the standoff's derivation, not before):* what stops Leukas irradiating Elianu Village once he no longer cares — candidates: he wants the archive and the protocols intact and cannot verify a field archive's radiation hardness from outside; he wants her Fabric infrastructure, not a hole in it; there is no legal costume for a radiological attack on a treaty enclave full of guests.
