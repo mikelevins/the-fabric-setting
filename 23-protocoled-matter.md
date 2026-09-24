@@ -21,6 +21,7 @@
 
 - **Magnetic manipulation and the safety floor depend on it.** The coordinated action of the nanosomes embedded in protocoled matter creates magnetism, and that is what lets magnetic manipulators (a ship's, a Mech's field-hands) and the Martian safety fields grip and move matter.
 - *Derived (unruled):* unprotocoled matter is therefore largely beyond such manipulation — it cannot be gripped, steered, or caught the same way — and inside a Fabric hole, where the nanosomes are destroyed, protocoled matter loses the property too (consistent with the safety floor failing inside a hole or bubble). An unprotocoled person on Mars would not be caught by the safety floor.
+- **Keeping matter unprotocoled — CANON (mikel, 9/24):** in protocoled space, making or keeping matter unprotocoled requires control protocols governing where nanosomes may be present and operate — privileges that, in practice, only Caretaker- or Angel-level capabilities can exert (an archive carrying foundational protocols, like Isono's, is the rare exception). Ordinary actors cannot build with unprotocoled matter to escape manipulation.
 
 ## What people know about it
 
