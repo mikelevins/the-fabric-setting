@@ -17,6 +17,11 @@
 - **A field archive's native nanomatrix defends the integrity of its contained data.** If the archived data happens to include protocols capable of refusing conversion, the archive's strategy engines can use them to do so. (This is vanishingly rare; see the Book 4 case below.)
 - **Conversion can be permitted later.** An entity that has refused conversion can instruct its own nanomatrix to allow it.
 
+## What protocoled matter makes possible — CANON (mikel, 9/24)
+
+- **Magnetic manipulation and the safety floor depend on it.** The coordinated action of the nanosomes embedded in protocoled matter creates magnetism, and that is what lets magnetic manipulators (a ship's, a Mech's field-hands) and the Martian safety fields grip and move matter.
+- *Derived (unruled):* unprotocoled matter is therefore largely beyond such manipulation — it cannot be gripped, steered, or caught the same way — and inside a Fabric hole, where the nanosomes are destroyed, protocoled matter loses the property too (consistent with the safety floor failing inside a hole or bubble). An unprotocoled person on Mars would not be caught by the safety floor.
+
 ## What people know about it
 
 - **Almost nobody consciously knows about conversion** — not because it is secret, but because encountering unprotocoled matter is so unlikely that the *concept* is on almost no one's horizon. The Fabric does it silently, everywhere, to matter almost nobody ever meets.
