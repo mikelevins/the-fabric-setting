@@ -110,3 +110,12 @@ Three states, not two:
 - **A failed field-archive revival is a second death and a second offer.**
 - **Worked instance:** Yaug's century in the creche (Book 4) was a death and an archive; the Yaug of Book 4 is a reconstruction whose original was offered.
 - **For the Abjurers** this taxonomy matters strategically — see `04-conflicts-and-decisions.md` §The three factions after the war: an archive does not protect a partisan from the offer; only a stopped process escapes the net.
+
+## Triggering, routing, and reconstruction time — RULED (mikel, 9/25)
+
+- **Trigger.** Revival can be triggered at the moment of death, modulo the death's propagation across the Fabric at the speed of light (Belt to Luna: tens of minutes).
+- **The owner's settings.** The owner of an archive can set **delays or conditionals** on its activation, including **routing to one or more redundant archives.**
+- **One archive fires — by convention.** Fabric-supported rules normally guarantee that only one archive is triggered, but that is a **social convention, not a hard Fabric limit.** (Precedent, Book 3: Harken's secret private creche beside her registered one at Solomon's Public Archive Service — "against the rules for intelligence operatives," per Yaug in Book 1.)
+- **Reconstruction time.** A human-sized biological takes **hours to days**, depending on the sophistication of the apparatus; times trend toward **roughly six to eight hours.**
+
+*Plausibility check (Claude, 9/25; assumptions labeled).* A 70 kg human is ~42 kg water and ~28 kg dry mass. Assembled from a materials feed of prebuilt building blocks (amino acids, nucleotides, lipids, sugars, ions; ~150 Da average) the dry mass is ~10²⁶ placements; over 7 hours that is ~5×10²¹ placements a second. At the ~10⁶ operations a second usually assumed for a molecular manipulator, that needs ~5×10¹⁵ manipulators — well under a kilogram of machinery even with generous overhead. **Placement speed is not the constraint.** Energy: the biochemistry itself is a few MJ/kg of dry mass (protein synthesis ~2 MJ/kg); with mechanical-assembly overhead of 10–200 MJ/kg the build draws **~10–200 kW** over 7 hours, so the binding constraints are **heat removal, feed logistics, and bringing a whole body up at once** (a person cannot be half-built and alive, so the build is held metabolically inert and started as a unit). Data is not the constraint when the archive is stored at the creche. A well-cooled creche does it in hours; a cheap or improvised one takes days. **Six to eight hours is consistent, arguably conservative.**
