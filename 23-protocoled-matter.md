@@ -48,3 +48,16 @@ Kenjiro Isono's post-Ergonyx field archive landed on Mars about a century before
 ## What conversion does to an object — RULED (mikel, 9/26)
 
 Conversion tries to keep matter as much the same as possible, but it is never actually *the same*: at a minimum it is the same **modulo a new network of nanoassemblers woven into a dense sensor–computer–effector matrix throughout the volume of the object.** The Fabric can talk to that network and tell it to do things, including operate nanoeffectors. **An object with machinery of its own keeps that machinery and its programs, but their instructions are now routed through the embedded nanomatrix** — the same sort of effect as replacing an operating system's system calls with substitutes that operate within the context of a host system running a guest OS. *(Worked case, Book 4: the philosopher's field archive — its strategy machines and reconstruction routines intact, their calls routed through the Fabric's nanomatrix, which is why it is bound by normal Fabric safety protocols.)*
+
+## Converted devices inside a suppression bubble — RULED (mikel, 9/26)
+
+**Conversion intercepts; it does not delete.** Because conversion keeps matter as much the same as it can, a converted device's native pathways are all still physically present; the woven nanomatrix sits across them and **actively catches** every call (the host grabbing a guest OS's system calls). **Catching is active; a silent interceptor catches nothing.**
+
+**Why the layer fails open:** the Fabric is designed to be truly universal, so its designers had no reason to plan for the Fabric simply not being there; a fail-closed layer — one that freezes its machine when the host goes quiet — answers a question nobody asked. **A suppression bubble is the exception universality never planned for:** a founding-era Church grant, a local silence (Book 4 `reference/protocol-powers.md`, Rule One). So when a bubble falls on a converted device with machinery of its own:
+- the woven layer goes silent and stops catching;
+- **the native machinery's calls reach its own original pathways;**
+- **a device built for hostile conditions notices within seconds, and acts.**
+
+Nothing hands the machine back on purpose; the layer holding it simply stops. *(Rejected: a layer that freezes its machine when the Fabric goes silent — believable but dramatically useless; a layer deliberately designed to hand control back — inconsistent with the Fabric's universal design; a slow reassertion over time — believable but invisible to the reader.)*
+
+**The Book 4 case:** the philosopher's field archive — a pre-Fabric Saint George's military archive with strategy machines and self-reconstructing machinery, bound in live Fabric by normal safety protocols — **wakes within seconds to a minute of a bubble falling on it.** Reconstruction still takes time and raw material, so the danger grows with the bubble's duration and with what the archive is touching. **The reader sees it before understanding it** (something oozing out of a cargo arbeiter), and one line from someone who knows explains it afterward. *Irony (Book 4):* the bubble is Leukas's tool for severing Elianu's bodies from one another, and it is also the one thing that turns loose what he is trying to steal.
