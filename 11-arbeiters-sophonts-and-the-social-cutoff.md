@@ -35,3 +35,9 @@ In reality there is a **gradient** in arbeiter/sophont intelligence and feeling.
 ## Arbeiters as witnesses — CANON (mikel, 2026-09-23)
 
 An arbeiter **can be induced to give a "confession"** — an account of what it did and who ordered it — **if asked by an authority it is programmed to recognize, or by protocol-based coercion.** An arbeiter can also be **programmed to fry its own memory** (on capture, on a trigger, on a timer). *Consequences (derived):* a captured arbeiter is evidence unless its owner anticipated capture; a self-erasing arbeiter is itself a tell — it says the owner expected to be asked; and an operator who wants deniability must choose between arbeiters that can be made to talk and arbeiters that visibly destroy what they knew.
+
+## The vocabulary is historical — CANON (mikel, 2026-09-29; Book 4 sitting, ruled while deriving Oleh and Angela's home society)
+
+**Around the ark era (~2900–3000 AD), Solar society had not yet converged on a stable categorization of machine minds into arbeiters versus Mechs** ("Mech" is shorthand for *electromechanical person*). **"Robot" was then simply the common word for any electromechanical agent, arbeiter or Mech alike, and not a pejorative; "arbeiter" and "Mech" were not yet in common use.** *(So Oleh Itzal's "robot" in Book 2 is period usage, not contempt — it reads as a slur only to modern ears.)*
+
+**Ship minds in the ark-building society were instruments in law, not persons (mikel, 2026-09-29)** — the *Angel of Cygnus*'s mind included.
