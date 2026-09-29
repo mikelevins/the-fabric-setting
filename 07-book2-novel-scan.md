@@ -258,7 +258,7 @@ The following items are well-captured in documents 01–06 and are confirmed by 
 - Canine species: Mai as Spearhound, manipulator mastery
 - Mech consciousness: Lev's internal experience, emotion networks
 - Ionian gender: Yarrow uses e/em/eir pronouns, "indeterminate gender"
-- "Robot" as slur for Mechs (Oleh Itzal uses it from ignorance)
+- "Robot" as slur for Mechs **in modern usage** — Oleh Itzal's use of it is **period usage, not ignorance or contempt**: in his era "robot" was the common word for any electromechanical agent (corrected by mikel 2026-09-29; see `11`)
 - Reconstruction/archive as practical immortality
 - Family glyphs as Fabric-projected insignia
 - Gasherd membranes sealing cargo bays
