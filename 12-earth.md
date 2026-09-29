@@ -13,8 +13,18 @@
 
 ## What the prose has established (Book 4, ch. 2, 9/3)
 
-- **Physique, as seen from Mars:** bigger than native Martians, paler, less hair. *(Provenance: the first-draft chase, 9/3; the passage was cut the same day, so this is a working description, not on the page.)* (Native Martians in the same passage: thick-bodied, short and wide, medium-brown, abundant hair — Mars slice recorded in `Book4/reference/mars.md`.)
+- ~~**Physique, as seen from Mars:** bigger than native Martians, paler, less hair.~~ **Superseded 2026-09-29 (mikel): see §Earthers' physique below.** *(Provenance: the first-draft chase, 9/3; the passage was cut the same day, so this is a working description, not on the page.)* (Native Martians in the same passage: thick-bodied, short and wide, medium-brown, abundant hair — Mars slice recorded in `Book4/reference/mars.md`.)
 - Earthers were guessed as Doctrine muscle in the first draft; the guess was cut the same day and is not on the page. *(Derived, not canon: if it holds, the Church recruits or operates off Mars, which is a structural fact about Earth–Church relations. Do not build on it without a ruling.)*
+
+## Earthers' physique — CANON (mikel, 2026-09-29)
+
+- **Earth and Venus are the largest, heaviest inhabited worlds, and Earthers and Venusian anthropes are the dwarves of the Fabric setting: shorter and more muscular even than baseline Martians** — though tall on average by 20th-century standards. *(Supersedes the 9/3 working description "bigger than native Martians"; paler and less hair are not re-ruled.)*
+
+## Earth in the ark era (~3000 AD) — CANON (mikel, 2026-09-29)
+
+- **Largely depopulated and rewilded as a result of the Mech Wars.** Its environment and its human population had recovered, but the population was still **a tiny fraction of its peak — perhaps a couple of hundred million rather than billions.**
+- **Earth is the point of origin of all terrestrial life and of human civilization**, so an Earther of that era is at once **a country boy from the backwoods and a representative of the oldest lineage and culture in the Solar System.** (Case: Oleh Itzal, `Book4/reference/crew.md`.)
+- *(Consistent with the ruling above: Earth recovered to dense habitation between then and the Kestrel era. Earth has space elevators larger than Mars's — `Book4/reference/mars.md` §The Pavonis Elevator.)*
 
 ## Open questions (ask, don't confabulate)
 
