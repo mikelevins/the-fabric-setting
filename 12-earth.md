@@ -13,12 +13,12 @@
 
 ## What the prose has established (Book 4, ch. 2, 9/3)
 
-- ~~**Physique, as seen from Mars:** bigger than native Martians, paler, less hair.~~ **Superseded 2026-09-29 (mikel): see §Earthers' physique below.** *(Provenance: the first-draft chase, 9/3; the passage was cut the same day, so this is a working description, not on the page.)* (Native Martians in the same passage: thick-bodied, short and wide, medium-brown, abundant hair — Mars slice recorded in `Book4/reference/mars.md`.)
+- **Physique, as seen from Mars:** bigger than native Martians, paler, less hair. **Refined 2026-09-29 (mikel): bigger but shorter — see §Earthers' physique below.** *(Provenance: the first-draft chase, 9/3; the passage was cut the same day, so this is a working description, not on the page.)* (Native Martians in the same passage: thick-bodied, short and wide, medium-brown, abundant hair — Mars slice recorded in `Book4/reference/mars.md`.)
 - Earthers were guessed as Doctrine muscle in the first draft; the guess was cut the same day and is not on the page. *(Derived, not canon: if it holds, the Church recruits or operates off Mars, which is a structural fact about Earth–Church relations. Do not build on it without a ruling.)*
 
 ## Earthers' physique — CANON (mikel, 2026-09-29)
 
-- **Earth and Venus are the largest, heaviest inhabited worlds, and Earthers and Venusian anthropes are the dwarves of the Fabric setting: shorter and more muscular even than baseline Martians** — though tall on average by 20th-century standards. *(Supersedes the 9/3 working description "bigger than native Martians"; paler and less hair are not re-ruled.)*
+- **Earth and Venus are the largest, heaviest inhabited worlds, and Earthers and Venusian anthropes are the dwarves of the Fabric setting: shorter and more muscular even than baseline Martians** — though tall on average by 20th-century standards. **They are still bigger than Martians — more massive — just shorter** (refines, does not supersede, the 9/3 "bigger"; paler and less hair are not re-ruled).
 
 ## Earth in the ark era (~3000 AD) — CANON (mikel, 2026-09-29)
 
