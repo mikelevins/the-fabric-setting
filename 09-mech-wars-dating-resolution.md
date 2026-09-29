@@ -26,6 +26,8 @@ Books 2 and 3 are consistent with each other. The author's working assumption co
 
 The Mech Wars (acute phase) occurred approximately **2400–2500 AD**. The acute phase lasted **weeks** — a machine-speed conflict fought primarily in the Fabric and through automated physical-world weapons systems. Humanity was nearly driven to extinction as collateral damage.
 
+**Refined — CANON (mikel, 2026-09-29).** *~2400–2500 AD is the uncertainty in when, not how long.* **Each physical engagement lasted seconds to minutes**: pure-software entities controlling sophisticated physical weapons and war machines. **The Mech Wars are plural because the wide distribution in space and the light lag between locations make it impossible to nail down a single timeline.** They came as **incredibly fast, violent bursts of conflict — cyberattacks, thrown asteroids, nuclear and antimatter weapons** — none lasting much longer than minutes, **scattered across space and across weeks of time.** **The whole Mech Wars era cannot have lasted more than a couple of years at the outside, after which all the humans were either extinct or very close to it.**
+
 The "late 22nd century" working assumption is retired. It never appeared in published text and carries no retcon cost.
 
 The "twenty-eighth and twenty-ninth centuries" reference in Book 2 refers to the **tail end of Abjurer cleanup operations**, not the main war. After the Caretakers won the acute phase, isolated Abjurer remnants persisted in physical space for centuries. The "reversals" are the final defeats that drove desperate Abjurer factions to construct arks and flee the solar system.
