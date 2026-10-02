@@ -9,6 +9,7 @@
 
 - **Protocoled matter** carries an embedded matrix of Fabric nanosomes. **Unprotocoled matter** does not.
 - Unprotocoled matter is **rare** except in the interiors of planets and large asteroids, and in regions where large numbers of small bodies sit undisturbed — the Belt's smaller bodies, the Kuiper Belt and beyond. Anywhere people live and work (Mars, for instance) is thoroughly protocoled.
+- **The outer-system balance — CANON (mikel, 2026-10-02).** The Fabric exists only in protocoled matter, yet the Rogues dominate the outer-system Fabric where unprotocoled matter is common. Both are true: **in the Kuiper Belt there is about as much unprotocoled matter as protocoled, and in the Oort Cloud as a whole unprotocoled matter still dominates.** The Rogues inhabit the protocoled share of a region where the Fabric is patchy. (Ruled while developing a Book 5 seed; `kestrel/book5-seeds.md` §The Rogues.)
 
 ## Protocol conversion
 
