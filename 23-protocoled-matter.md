@@ -34,6 +34,7 @@
 
 - Protocoled matter is **not thereby trackable.** Privacy protocols mean an object is tracked only if it has been **marked** for tracking through the Fabric. (Derived: the Fabric notices that *something* is moving or falling — the safety floor depends on it — but not *what* it is, absent a mark.)
 - **Marking is an alteration.**
+- **Personal privacy is a primitive facility of the Fabric — CANON (mikel, 10/8).** The general rule: you cannot make private any information that would be available to public inspection, but you can make private anything that could not be recovered by someone simply looking or listening. So a thing concealed (out of sight and hearing) *and* marked private is invisible to watchers through the Fabric: they cannot tell that it is present, much less what it is. (Agrees with Book 3's rule that privacy restrictions are built in and that even a ship's own mind cannot share or act on what isn't public without the owner's permission; `08-book3-novel-scan.md` §Fabric Partition Architecture and Privacy.) *Book 4 case:* Leukas, who knows the facility very well, conceals the poison pill on the controller and marks it private, so Elianu and those with her, watching his launch approach across open grassland, cannot know the pill is there; the pills placed in Jupiter House are hidden the same way, which is why only Doctrine's paper custody record can reveal their holders.
 
 ## The artifact market
 
