@@ -49,6 +49,8 @@ Multiple source pathways exist: living converts and archive reconstructions, inc
 
 **Note**: The original specification for Angels was "machines with human personalities." This specification has had to adjust over the millennia as the definition of what a "human being" is has drifted. By AD 7005, with Mechs, Ionians, Theriopes, distributed consciousnesses, and everything in between, "human personality" may be quite hard to define.
 
+**Intended, not compelled — CANON (mikel, 10/8).** Angels are intended to act by their best judgment of the effects of acting, never by sides or kinship, but they are not forced to behave as intended. An Angel *could* act otherwise. Depending on the nature and seriousness of the breach, that could itself be an emergency calling for angelic intervention, leading to a conflict among Angels (a story seed, held unexpanded). *Book 4 case:* Keryx acts as intended; his kinship with Leukas is what he means, never his reason.
+
 ### 8. Second Imperium — Historical Placement
 
 **DECIDED**: The Second Imperium is a Mars-based military dictatorship. Key facts:
