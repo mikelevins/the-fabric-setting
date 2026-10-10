@@ -28,7 +28,7 @@ Paved roads carry **a higher density of transport-specific systems** — built e
 
 - **Handles are active, switchable current networks** (superconducting nanowire is plausible), **not permanent magnets** — permanently magnetic bodies would be pulled at by every field they passed. A body's handles are off until its nanosomes switch them on. **Who can switch on a body's handles is a matter of Fabric privilege.**
 - **Force must be spread through the body:** the handle network is anchored to the skeleton and connective tissue, like a built-in harness. Rough handling can still tear tissue.
-- **Inside a suppression bubble, nothing can switch handles on,** so nothing can be held — the same fact as the safety floor's death inside a bubble (`21-emp-weapons-and-the-fabric.md`).
+- **Wherever the Fabric is absent (a hole), nothing can switch handles on,** so nothing can be held — the same fact as the safety floor's death inside a hole (`21-emp-weapons-and-the-fabric.md`). *(First stated for suppression bubbles, retired 10/9.)*
 - **Fields cannot practically stop bullets:** stopping a 10 g steel slug at ~900 m/s within a meter needs a gradient of ~2,000 T/m; non-ferrous slugs are worse.
 
 ## Worked figures
